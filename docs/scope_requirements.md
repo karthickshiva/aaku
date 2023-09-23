@@ -1,7 +1,7 @@
-## Project Scope and Requirements Document: Data Generator Application
+## Project Scope and Requirements
 
 ### 1. Introduction
-The Data Generator Application aims to provide users with a powerful tool for defining relational schemas and generating synthetic test data. The application will be designed to meet the following scope and requirements.
+The Aaku (Data Generator Application) aims to provide users with a powerful tool for defining relational schemas and generating synthetic test data. The application will be designed to meet the following scope and requirements.
 
 ### 2. User Requirements
 
